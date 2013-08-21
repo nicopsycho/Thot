@@ -1,4 +1,0 @@
-Thot
-====
-
-Custom cloud project
