@@ -4,3 +4,19 @@ body {
 	background-color:white;
 }
 
+#container {
+	background-color:white;
+	border:1px solid #db000b;
+	padding:40px;
+	width : 70%;
+	height : 50%; 
+	margin : auto; 
+	/*arrondir les coins en haut à gauche et en bas à droite*/
+	border-radius:10px; 
+}
+
+.input-search {
+border: 1px solid #db000b;  
+width: 200px;
+border-radius:5px;
+}
