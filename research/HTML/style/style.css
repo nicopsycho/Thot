@@ -16,7 +16,7 @@ body {
 }
 
 .input-search {
-border: 1px solid #db000b;  
-width: 200px;
-border-radius:5px;
+	border: 1px solid #db000b;  
+	width: 200px;
+	border-radius:5px;
 }
